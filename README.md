@@ -2,7 +2,7 @@
  1. Install python
      A. Download python .exe file :- https://www.python.org/downloads/
      B. (Very important)Tick "Add python to path" check box while installing 
- 2. After successfull installation from the main folder run this command in the command prompt :- pip install -r requirements.txt
+ 2. After successfull installation, from the master folder run this command in the command prompt :- pip install -r requirements.txt
 
  3. Copy the static values in WGC Stage2.xlsx file.
 
