@@ -1,0 +1,542 @@
+[
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 13936.707,
+        "TimeStamp": "2000-01-01T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 52511.8058772447,
+        "TimeStamp": "2000-01-01T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 66.400969271,
+        "TimeStamp": "2000-01-01T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 15018.359,
+        "TimeStamp": "2000-01-02T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 52281.2826867712,
+        "TimeStamp": "2000-01-02T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 67.5518045842,
+        "TimeStamp": "2000-01-02T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 16015.6045,
+        "TimeStamp": "2000-01-03T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 52047.5725831532,
+        "TimeStamp": "2000-01-03T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 68.4118812435,
+        "TimeStamp": "2000-01-03T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 17012.85,
+        "TimeStamp": "2000-01-04T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 51816.5844780961,
+        "TimeStamp": "2000-01-04T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 69.1488196969,
+        "TimeStamp": "2000-01-04T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 18010.264,
+        "TimeStamp": "2000-01-05T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 51500.5967292897,
+        "TimeStamp": "2000-01-05T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 69.8147918881,
+        "TimeStamp": "2000-01-05T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 19007.844,
+        "TimeStamp": "2000-01-06T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 51160.1794275196,
+        "TimeStamp": "2000-01-06T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 70.4464918918,
+        "TimeStamp": "2000-01-06T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 19988.611,
+        "TimeStamp": "2000-01-07T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 50799.7280006122,
+        "TimeStamp": "2000-01-07T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 71.0547966484,
+        "TimeStamp": "2000-01-07T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 21003.258,
+        "TimeStamp": "2000-01-08T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 50383.5287015273,
+        "TimeStamp": "2000-01-08T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 71.676969131,
+        "TimeStamp": "2000-01-08T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 22017.99,
+        "TimeStamp": "2000-01-09T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 49928.9895395699,
+        "TimeStamp": "2000-01-09T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 72.2821515847,
+        "TimeStamp": "2000-01-09T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 23016.158,
+        "TimeStamp": "2000-01-10T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 49400.8014413521,
+        "TimeStamp": "2000-01-10T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 72.8354612149,
+        "TimeStamp": "2000-01-10T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 24014.58,
+        "TimeStamp": "2000-01-11T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 48716.2001234898,
+        "TimeStamp": "2000-01-11T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 73.3065794153,
+        "TimeStamp": "2000-01-11T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 25030.486,
+        "TimeStamp": "2000-01-12T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 47848.9542740679,
+        "TimeStamp": "2000-01-12T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 73.6436036291,
+        "TimeStamp": "2000-01-12T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 26029.832,
+        "TimeStamp": "2000-01-13T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 46828.313674347,
+        "TimeStamp": "2000-01-13T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 73.762361504,
+        "TimeStamp": "2000-01-13T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 27030.102,
+        "TimeStamp": "2000-01-14T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 45470.7853093343,
+        "TimeStamp": "2000-01-14T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 73.5820174504,
+        "TimeStamp": "2000-01-14T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 28014.227,
+        "TimeStamp": "2000-01-15T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 43682.2372380821,
+        "TimeStamp": "2000-01-15T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 73.0124514533,
+        "TimeStamp": "2000-01-15T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 29016.428,
+        "TimeStamp": "2000-01-16T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 41252.7739512461,
+        "TimeStamp": "2000-01-16T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 71.9153435383,
+        "TimeStamp": "2000-01-16T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 30003.494,
+        "TimeStamp": "2000-01-17T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 37900.5639619163,
+        "TimeStamp": "2000-01-17T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 70.1945253753,
+        "TimeStamp": "2000-01-17T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Flow",
+        "Value": 30841.668,
+        "TimeStamp": "2000-01-18T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Head",
+        "Value": 32757.0748669992,
+        "TimeStamp": "2000-01-18T00:00:00"
+    },
+    {
+        "TagName": "4950_MAB_Volume_Efficiency",
+        "Value": 68.1272442765,
+        "TimeStamp": "2000-01-18T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 13255.808,
+        "TimeStamp": "2000-01-19T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 47195.4781681101,
+        "TimeStamp": "2000-01-19T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 66.6028096855,
+        "TimeStamp": "2000-01-19T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 14033.208,
+        "TimeStamp": "2000-01-20T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 47090.8407953478,
+        "TimeStamp": "2000-01-20T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 67.4129315164,
+        "TimeStamp": "2000-01-20T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 15030.37,
+        "TimeStamp": "2000-01-21T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 46893.230417811,
+        "TimeStamp": "2000-01-21T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 68.2535130889,
+        "TimeStamp": "2000-01-21T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 16027.615,
+        "TimeStamp": "2000-01-22T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 46697.3376402391,
+        "TimeStamp": "2000-01-22T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 68.9561789076,
+        "TimeStamp": "2000-01-22T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 17008.047,
+        "TimeStamp": "2000-01-23T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 46447.2210693439,
+        "TimeStamp": "2000-01-23T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 69.5819536118,
+        "TimeStamp": "2000-01-23T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 18005.543,
+        "TimeStamp": "2000-01-24T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 46127.5014032983,
+        "TimeStamp": "2000-01-24T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 70.2019671065,
+        "TimeStamp": "2000-01-24T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 19019.94,
+        "TimeStamp": "2000-01-25T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 45815.7038521638,
+        "TimeStamp": "2000-01-25T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 70.84467166,
+        "TimeStamp": "2000-01-25T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 20000.79,
+        "TimeStamp": "2000-01-26T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 45421.8876642248,
+        "TimeStamp": "2000-01-26T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 71.4848862774,
+        "TimeStamp": "2000-01-26T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 21015.521,
+        "TimeStamp": "2000-01-27T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 44959.8443778736,
+        "TimeStamp": "2000-01-27T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 72.1518220869,
+        "TimeStamp": "2000-01-27T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 22013.521,
+        "TimeStamp": "2000-01-28T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 44451.874044947,
+        "TimeStamp": "2000-01-28T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 72.7758384503,
+        "TimeStamp": "2000-01-28T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 23028.674,
+        "TimeStamp": "2000-01-29T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 43809.3050064929,
+        "TimeStamp": "2000-01-29T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 73.318026743,
+        "TimeStamp": "2000-01-29T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 24027.514,
+        "TimeStamp": "2000-01-30T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 42951.6153802903,
+        "TimeStamp": "2000-01-30T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 73.679422674,
+        "TimeStamp": "2000-01-30T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 25043.758,
+        "TimeStamp": "2000-01-31T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 41861.7946808159,
+        "TimeStamp": "2000-01-31T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 73.766317061,
+        "TimeStamp": "2000-01-31T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 26026.959,
+        "TimeStamp": "2000-02-01T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 40410.9140591495,
+        "TimeStamp": "2000-02-01T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 73.4590190901,
+        "TimeStamp": "2000-02-01T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 27028.404,
+        "TimeStamp": "2000-02-02T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 38262.0490516154,
+        "TimeStamp": "2000-02-02T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 72.6054253285,
+        "TimeStamp": "2000-02-02T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 28031.025,
+        "TimeStamp": "2000-02-03T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 35429.8696273132,
+        "TimeStamp": "2000-02-03T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 71.0366469343,
+        "TimeStamp": "2000-02-03T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 29019.016,
+        "TimeStamp": "2000-02-04T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 31251.1467714852,
+        "TimeStamp": "2000-02-04T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 68.6061193148,
+        "TimeStamp": "2000-02-04T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Flow",
+        "Value": 29258.781,
+        "TimeStamp": "2000-02-05T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Head",
+        "Value": 29480.6698776753,
+        "TimeStamp": "2000-02-05T00:00:00"
+    },
+    {
+        "TagName": "4700_MAB_Volume_Efficiency",
+        "Value": 67.8612339125,
+        "TimeStamp": "2000-02-05T00:00:00"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "TagName": "DMDS_Crs",
+        "Value": 0.129985,
+        "TimeStamp": "01/01/2000"
+    },
+    {
+        "TagName": "DMDS_FeFs",
+        "Value": 50.5654,
+        "TimeStamp": "01/01/2000"
+    },
+    {
+        "TagName": "DMDS_Temperature",
+        "Value": 450.0,
+        "TimeStamp": "01/01/2000"
+    },
+    {
+        "TagName": "DMDS_Crs",
+        "Value": 0.209688,
+        "TimeStamp": "01/02/2000"
+    },
+    {
+        "TagName": "DMDS_FeFs",
+        "Value": 65.2034,
+        "TimeStamp": "01/02/2000"
+    },
+    {
+        "TagName": "DMDS_Temperature",
+        "Value": 467.5,
+        "TimeStamp": "01/02/2000"
+    },
+    {
+        "TagName": "DMDS_Crs",
+        "Value": 0.330555,
+        "TimeStamp": "01/03/2000"
+    },
+    {
+        "TagName": "DMDS_FeFs",
+        "Value": 83.047,
+        "TimeStamp": "01/03/2000"
+    },
+    {
+        "TagName": "DMDS_Temperature",
+        "Value": 485.0,
+        "TimeStamp": "01/03/2000"
+    }
+]
