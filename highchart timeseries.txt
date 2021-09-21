@@ -1,0 +1,116 @@
+[
+    {
+      "chart": {
+        "type": "",
+        "zoomType": "x"
+      },
+      "tooltip": {
+        "enabled": true,
+        "shared": true
+      },
+      "plotOptions": {
+        "series": {
+          "states": {
+            "hover": {
+              "enabled": false,
+              "animation": false,
+              "inactive": {
+                "opacity": 1
+              }
+            },
+            "inactive": {
+              "opacity": 1
+            }
+          }
+        }
+      },
+      "yAxis": [
+        {
+          "gridLineWidth": 1,
+          "title": {
+            "text": "",
+            "rotation": -90,
+            "style": {
+              "fontWeight": 500,
+              "color": "#707070",
+              "fontFamily": "Honeywell Sans Web",
+              "fontSize": "12px",
+              "textAlign": "center"
+            }
+          },
+          "opposite": false
+        }
+      ],
+      "xAxis": [
+        {
+          "title": {
+            "text": ""
+          },
+          "showLastLabel": true,
+          "type": "datetime",
+          "gridLineWidth": 1,
+          "dateTimeLabelFormats": {
+            "minute": "%H:%M",
+            "hour": "%H:%M"
+          },
+          "tickInterval": 1,
+          "labels": {
+            "format": "{value:%b-%e}",
+            "rotation": -45,
+            "style": {
+              "fontWeight": 500,
+              "color": "#707070",
+              "fontFamily": "Honeywell Sans Web",
+              "fontSize": "11px",
+              "lineHeight": "16px"
+            }
+          }
+        },
+        {
+          "opposite": true,
+          "title": {
+            "text": ""
+          },
+          "showLastLabel": true,
+          "type": "datetime",
+          "gridLineWidth": 1,
+          "dateTimeLabelFormats": {
+            "minute": "%H:%M",
+            "hour": "%H:%M"
+          },
+          "tickInterval": 1,
+          "labels": {
+            "format": "{value:%b-%e}",
+            "rotation": -45,
+            "style": {
+              "fontWeight": 500,
+              "color": "#707070",
+              "fontFamily": "Honeywell Sans Web",
+              "fontSize": "11px",
+              "lineHeight": "16px"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "seriesPreferences": {
+        "multipleSeries": true,
+        "series": [
+          {
+            "yAxis": 0,
+            "zIndex": 2,
+            "name": "CHANGE THIS",
+            "type": "line",
+            "color": "black",
+            "visualMetricIds": [
+              "CHANGE THIS"
+            ],
+            "marker": {
+              "enabled": false
+            }
+          }
+        ]
+      }
+    }
+  ]

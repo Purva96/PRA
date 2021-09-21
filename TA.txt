@@ -1,0 +1,5 @@
+3 for loops
+
+1. Initial dash'-'
+2. for the characters
+3. for trailing dash

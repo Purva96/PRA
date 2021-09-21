@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//LogMeIn//GoToWebinar//EN
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210201T080211Z
+DTSTART;TZID=Asia/Kolkata:20210201T190000
+DTEND;TZID=Asia/Kolkata:20210201T200000
+SUMMARY:GoToWebinar - Fall & Spring 2022 Admissions Planner: GRE | Univer
+ sity requirements & Deadlines | Strategies for top admits
+LOCATION:GoToWebinar - See conference call information below
+UID:1029856877@logmein.com
+ORGANIZER:info@greedge.com
+DESCRIPTION:1. Click and join at the specified time and date:\nhttps://gl
+ obal.gotowebinar.com/join/5164101963586834446/900622685\nNote: This link
+  should not be shared with others\; it is unique to you.\n\n2. Choose on
+ e of the following audio options:\n\nTO USE YOUR COMPUTER'S AUDIO:\nWhen
+  the Webinar begins\, you will be connected to audio using your computer
+ 's microphone and speakers (VoIP). A headset is recommended.\n\n-- OR --
+ \n\nTO USE YOUR TELEPHONE:\nIf you prefer to use your phone\, you must s
+ elect "Use Telephone" after joining the webinar and call in using the nu
+ mbers below.\n\nUnited States: +1 (415) 655-0060\n	Access Code: 115-984-
+ 968\n	Audio PIN: Shown after joining the webinar\n\nPlanning to pursue y
+ our MS/Ph.D for the Fall/Spring 2022 Semesters? Get a comprehensive unde
+ rstanding of the requirements\, timelines and how to build your profile 
+ for securing top Admits. Get expert answers to questions like\n\nSpring/
+ Fall 2022 - Which one to choose? \nWhen to take GRE\, TOEFL/IELTS?\nWhen
+  are the Deadlines for Universities?\nIs Fall 2022 going to be more comp
+ etitive?\nHow to build my profile and increase my chances of admission?\
+ n \nRegister for the webinar and join our expert LIVE.\n\n
+X-ALT-DESC;FMTTYPE=text/html:<HTML><HEAD><TITLE></TITLE><BODY><FONT SIZE=
+ 2><b>1. Click and join at the specified time and date:</b></FONT><BR><FO
+ NT SIZE=2>https://global.gotowebinar.com/join/5164101963586834446/900622
+ 685</FONT><BR><FONT SIZE=2>Note: This link should not be shared with oth
+ ers\; it is unique to you.</FONT><BR><BR><FONT SIZE=2><FONT SIZE=2><b>2.
+  Choose one of the following audio options:</b></FONT><BR><BR><FONT SIZE
+ =2>TO USE YOUR COMPUTER'S AUDIO:</FONT><BR><FONT SIZE=2>When the Webinar
+  begins\, you will be connected to audio using your computer's microphon
+ e and speakers (VoIP). A headset is recommended.</FONT><BR><BR><FONT SIZ
+ E=2>-- OR --</FONT><BR><BR><FONT SIZE=2>TO USE YOUR TELEPHONE:</FONT><BR
+ ><FONT SIZE=2>If you prefer to use your phone\, you must select "Use Tel
+ ephone" after joining the webinar and call in using the numbers below.</
+ FONT><BR><BR><FONT SIZE=2>United States: +1 (415) 655-0060</FONT><BR><FO
+ NT SIZE=2>&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT><FONT SIZE=2>Access Code: 1
+ 15-984-968</FONT><BR><FONT SIZE=2>&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT><FO
+ NT SIZE=2>Audio PIN: Shown after joining the webinar</FONT><BR></BODY></
+ HTML></FONT><BR><FONT SIZE=2>Planning to pursue your MS/Ph.D for the Fal
+ l/Spring 2022 Semesters? Get a comprehensive understanding of the requir
+ ements\, timelines and how to build your profile for securing top Admits
+ . Get expert answers to questions like\n\nSpring/Fall 2022 - Which one t
+ o choose? \nWhen to take GRE\, TOEFL/IELTS?\nWhen are the Deadlines for 
+ Universities?\nIs Fall 2022 going to be more competitive?\nHow to build 
+ my profile and increase my chances of admission?\n \nRegister for the we
+ binar and join our expert LIVE.\n</FONT><BR></BODY></HTML>
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
